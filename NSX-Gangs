@@ -1,4 +1,4 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.3",
     "message": "Added a export for view the player gang is in \n Added a security for the menu functions"
 }
